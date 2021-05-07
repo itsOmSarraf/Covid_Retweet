@@ -21,7 +21,7 @@ print(user.screen_name)
  
 search="Verified (Bed OR Blood OR Oxygen OR Fabiflu OR Plasma OR ICU OR Tocilizumab OR Ventilator OR Emergency OR Plasma OR donor OR OR CONCENTRATOR OR needed OR available OR SOS OR #COVIDIndiaResources OR #CovidNDIAInfo OR CovidHelp) min_faves:3 min_retweets:5 -filter:replies"
 nrtweets=500
-count=587
+count=591
 
 for tweet in tweepy.Cursor(api.search,search).items(nrtweets):
     try:
