@@ -1,4 +1,4 @@
-Once the bot is ready it will retweet the tweets containing the below mentioned terms with a minimum of 5 retweets and 3 likes 
+ The bot is ready it retweets the tweets containing the below mentioned terms with a minimum of 5 retweets and 3 likes 
 
  Terms= "Verified" with any of these (Bed OR Blood OR Oxygen OR Fabiflu OR Plasma OR ICU OR Tocilizumab OR Ventilator 
 				       OR Emergency OR Plasma OR donor OR verified OR needed OR available OR SOS)
