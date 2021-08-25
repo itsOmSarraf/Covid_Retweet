@@ -1,3 +1,5 @@
+ link of bot : https://twitter.com/covid_retweet?lang=en
+ 
  The bot is ready it retweets the tweets containing the below mentioned terms with a minimum of 5 retweets and 3 likes 
 
  Terms= "Verified" with any of these (Bed OR Blood OR Oxygen OR Fabiflu OR Plasma OR ICU OR Tocilizumab OR Ventilator 
